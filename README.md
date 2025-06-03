@@ -28,13 +28,13 @@ A web application built with Spring Boot for managing lost and found items withi
 
 ## Folder Structure
 
-│
-├── controller/ # REST controllers
-├── dto/ # Data Transfer Objects
-├── model/ # Entity classes
-├── repositories/ # JPA Repositories
-├── security/ # JWT filters and utilities
-├── service/ # Service layer
+│<br>
+├── controller/ # REST controllers<br>
+├── dto/ # Data Transfer Objects<br>
+├── model/ # Entity classes<br>
+├── repositories/ # JPA Repositories<br>
+├── security/ # JWT filters and utilities<br>
+├── service/ # Service layer<br>
 └── application.properties
 
 ---
@@ -52,7 +52,7 @@ mvn spring-boot:run
 
 POST /api/auth/signup
 
-POST /api/auth/signin
+POST /api/auth/signin<br><br>
 
 **Items**
 
@@ -80,7 +80,7 @@ GET /api/users (ADMIN/STAFF<br>
 GET /api/users/{id}<br>
 
 
-👤 Developed By
+## 👤 Developed By
 N.Janeesha Dewmini
 
 
